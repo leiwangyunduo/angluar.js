@@ -1,2 +1,1 @@
 # angluar.js
-biginners
